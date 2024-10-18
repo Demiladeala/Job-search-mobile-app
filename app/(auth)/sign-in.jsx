@@ -21,7 +21,7 @@ const SignIn = () => {
             // value={form.email}
             // handleChangeText={(e) => setForm({ ...form, email:e })}
             otherStyles={`mt-7`}
-            // keyboardType="email-address"
+            keyboardType="email-address"
             />
 
              <FormField 
